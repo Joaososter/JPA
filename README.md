@@ -28,7 +28,7 @@ MySql;
 1. Clone o repositório ou baixe os arquivos**:
    - Use o comando:
     bash
-     git clone [https://github.com/](https://github.com/Joaososter/JPA.git)
+     git clone https://github.com/Joaososter/JPA.git
      
 
 2. Acesse o projeto:
